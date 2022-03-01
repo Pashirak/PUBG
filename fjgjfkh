@@ -6,6 +6,7 @@ int x,y;
 printf("Vvedite x");
 scanf("%d",&x);
 y=x+5/x-5;
+y=y*2;
 Printf("Rezultat y=%d",y);
 getchar();
 }
