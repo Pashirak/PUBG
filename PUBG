@@ -1,8 +1,11 @@
 #include<stdio.h>
 #include<math.h>
+main()
 {
-int x;
-float y;
-main
-(
-scanf("
+int x,y;
+printf("Vvedite x");
+scanf("%d",&x);
+y=x+5/x-5;
+Printf("Rezultat y=%d",y);
+getchar();
+}
